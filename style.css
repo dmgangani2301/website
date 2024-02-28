@@ -1,0 +1,18 @@
+* {
+font-family: Arial, Helvetica, sans-serif
+}
+
+body{
+    text-align: center;
+}
+h1 {
+    color: #004280;
+
+    font-size: 40px;
+}
+
+/* this changes the color and font size of the paragraph  */
+p{
+    color: #902be2; // CSS SELECTORS
+    font-size: 40px;
+}
