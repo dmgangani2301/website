@@ -1,8 +1,7 @@
 * {
-font-family:'Times New Roman', Times, serif
+font-family:'Times New Roman', Times, serif;
 font-weight: bold; 
-color: #2b65e2; // CSS SELECTORS
-}
+color: #2b65e2; 
 
 body{
     text-align: center;
@@ -11,7 +10,7 @@ body{
    
 }
 h1 {
-    color: #004280;color: // CSS SELECTORS
+    color: #004280;color: 
     font-size: 100px;
     font-weight: bold; 
     font-size: 40px;
@@ -20,8 +19,8 @@ h1 {
 
 /* this changes the color and font size of the paragraph  */
 p{
-    color: #2b65e2; // CSS SELECTORS
-    font-size: 100px;
+    color: #2b65e2; 
+    font-size: 16px;
     text-align: left;
     font-weight: bold;   
 }
